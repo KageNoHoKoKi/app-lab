@@ -1,0 +1,3 @@
+const catName =  'Brett';
+
+console.log(`my cat\'s is $(catName)`);
